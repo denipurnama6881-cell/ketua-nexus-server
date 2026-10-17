@@ -1,12 +1,1 @@
-{
-  "name": "Ketua Nexus Quantum 1000000000% Super Mega Canggih Tiada Tandingan - Untuk Sahabatku",
-  "short_name": "Ketua Nexus",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#020a09",
-  "theme_color": "#00ffcc",
-  "icons": [
-    { "src": "logo-192.webp", "sizes": "192x192", "type": "image/webp" },
-    { "src": "logo-512.webp", "sizes": "512x512", "type": "image/webp" }
-  ]
-}
+{"name":"Ketua Nexus Quantum 1000000000% Super Mega Canggih Tiada Tandingan Untuk Sahabatku","short_name":"Ketua Nexus","start_url":"./","display":"standalone","background_color":"#020a09","theme_color":"#00ffcc","icons":[{"src":"logo-192.webp","sizes":"192x192","type":"image/webp"},{"src":"logo-512.webp","sizes":"512x512","type":"image/webp"},{"src":"logo-192.png","sizes":"192x192","type":"image/png"},{"src":"logo-512.png","sizes":"512x512","type":"image/png"}]}
